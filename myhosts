@@ -20,5 +20,5 @@
 
 [mywebserers:vars]
 var01= value
-myubuntuwebpack= apache2
+myubuntuwebpack= nginx
 myredhatwebpack= httpd
