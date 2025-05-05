@@ -13,3 +13,8 @@
 [myrehatservrs]
 172.31.12.204
 172.31.12.205
+
+[mywebservers:vars]
+var01= value
+myubuntuwebpack= apache2
+myredhatwebpack= httpd
