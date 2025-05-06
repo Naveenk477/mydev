@@ -18,7 +18,3 @@
 172.31.12.204
 172.31.12.205
 
-[mywebserers:vars]
-var01= value
-myubuntuwebpack= apache234
-myredhatwebpack= httpd
