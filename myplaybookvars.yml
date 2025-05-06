@@ -8,4 +8,4 @@
   tasks:
   - name: want to display vars01
     debug:
-       msg: "{{vars01}}"
+       msg: "{{vars03}}"
