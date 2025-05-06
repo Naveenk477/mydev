@@ -12,6 +12,7 @@
      name: tree
      statee: present
     ignore_error: true
+    
   
   - name: install wget
     apt:
