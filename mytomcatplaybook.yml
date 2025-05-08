@@ -1,5 +1,5 @@
 ---
-- hosts: myappservers
+- hosts: 172.31.4.193
   become: yes
   roles:
   - mytomcatrole
